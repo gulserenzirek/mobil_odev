@@ -2,7 +2,7 @@ Danışman: [@keyvanarasteh](https://github.com/keyvanarasteh)
   
 Öğrenci : [@Gülseren Zirek](https://github.com/gulserenzirek)  
 Öğrenci No: 221216074  
-Öğrenci Mail: [221216074@stu.istinye.edu.tr](mailto:221216074@stu.istinye.edu.tr)
+Mail: [221216074@stu.istinye.edu.tr](mailto:221216074@stu.istinye.edu.tr)
 
 Instagram Uygulaması
 ![Ekran görüntüsü 2023-11-26 174247](https://github.com/gulserenzirek/mobil_odev/assets/127668608/545caefe-f0a6-447c-b779-d3a66176cda1)
