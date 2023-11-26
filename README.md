@@ -5,6 +5,7 @@ Danışman: [@keyvanarasteh](https://github.com/keyvanarasteh)
 Mail: [221216074@stu.istinye.edu.tr](mailto:221216074@stu.istinye.edu.tr)
 
 Instagram Uygulaması
+<br>
 ![Ekran görüntüsü 2023-11-26 174247](https://github.com/gulserenzirek/mobil_odev/assets/127668608/545caefe-f0a6-447c-b779-d3a66176cda1)
 
 Youtube Music Uygulaması
