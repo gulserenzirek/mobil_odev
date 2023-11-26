@@ -1,11 +1,7 @@
-<i>Danışman:<i> [@keyvanarasteh]<i>
-(https://github.com/keyvanarasteh)  
-  
-<i>Öğrenci : [@Gülseren Zirek]<i>
-(https://github.com/gulserenzirek)  
-<i>Öğrenci No: 221216074 <i> 
-<i>Mail: [221216074@stu.istinye.edu.tr]<i>
-(mailto:221216074@stu.istinye.edu.tr)
+Danışman: [@keyvanarasteh](https://github.com/keyvanarasteh)  
+Öğrenci : [@Gülseren Zirek](https://github.com/gulserenzirek)  
+Öğrenci No: 221216074 
+Mail: [221216074@stu.istinye.edu.tr](mailto:221216074@stu.istinye.edu.tr)
 
 <i>Instagram Uygulaması<i>
 <br>
